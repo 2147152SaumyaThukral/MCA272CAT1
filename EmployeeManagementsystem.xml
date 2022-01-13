@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="EmployeeManagementSystem.xsl"?>
+
+<!DOCTYPE Company SYSTEM "EmployeeManagementSystem.dtd">
+
+<Company>
+    <cd>
+        <Emp_ID>1</Emp_ID>
+        <Emp_Name>Saumya</Emp_Name>
+        <Emp_age>23</Emp_age>
+        <Emp_salary>56000</Emp_salary>
+        <Emp_emailid>saumya.thukral@</Emp_emailid>
+        <Emp_Phonenum>1234567891</Emp_Phonenum>
+        <Emp_designation>Lead</Emp_designation>
+    </cd>
+    <cd>
+        <Emp_ID>2</Emp_ID>
+        <Emp_Name>Kai</Emp_Name>
+        <Emp_age>43</Emp_age>
+        <Emp_salary>59500</Emp_salary>
+        <Emp_emailid>kai.sm@</Emp_emailid>
+        <Emp_Phonenum>324156278</Emp_Phonenum>
+        <Emp_designation>Staff</Emp_designation>
+    </cd>
+    <cd>
+        <Emp_ID>3</Emp_ID>
+        <Emp_Name>Navya</Emp_Name>
+        <Emp_age>52</Emp_age>
+        <Emp_salary>75000</Emp_salary>
+        <Emp_emailid>navya.kr@</Emp_emailid>
+        <Emp_Phonenum>64628739246</Emp_Phonenum>
+        <Emp_designation>Manager</Emp_designation>
+    </cd> 
+ 
+</Company>
+

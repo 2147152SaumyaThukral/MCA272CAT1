@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Company (Employee+)>
+<!ELEMENT  Employee(Emp_ID,Emp_Name,Emp_age,Emp_salary,Emp_emailid,Emp_Phonenum,Emp_designation)>
+<!ELEMENT Emp_ID(#PCDATA)>
+<!ELEMENT Emp_Name(#PCDATA)>
+<!ELEMENT Emp_age(#PCDATA)>
+<!ELEMENT Emp_age(#PCDATA)>
+<!ELEMENT Emp_salary(#PCDATA)>
+<!ELEMENT Emp_emailid(#PCDATA)>
+<!ELEMENT Emp_Phonenum(#PCDATA)>
+<!ELEMENT Emp_designation(#PCDATA)>
+
+
